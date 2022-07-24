@@ -2,7 +2,7 @@
 - Obs: O código fonte deste projeto é privado, este repositório é apenas uma demonstração do projeto.
 + Em: log.mrlabs.com.br
 ```
-**Principais habilidades utilizadas**: php, Laravel, Docker (e compose) e Nginx.
+ **Principais habilidades utilizadas**: php, Laravel, Docker (e compose) e Nginx. Hospedado em servidor linux na Digital Ocean.
 
 <br/>
 <br/>
