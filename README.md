@@ -2,6 +2,8 @@
 - Obs: O código fonte deste projeto é privado, este repositório é apenas um overview do projeto.
 + Em: log.mrlabs.com.br
 ```
+Resgata dados de forma automática com Kernel scheduling e processa utilizando job queues do Laravel
+
  **Principais habilidades utilizadas**: php, Laravel, Docker (e compose) e Nginx. Hospedado em servidor linux na Digital Ocean.
 
 <br/>
